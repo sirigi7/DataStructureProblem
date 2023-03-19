@@ -22,7 +22,9 @@ public class HashTable_problem {
             for (String word : freq.keySet()) {
                 System.out.println(word + ": " + freq.get(word));
             }
-
         }
+
+
+
 
 }
